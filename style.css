@@ -1,0 +1,34 @@
+.fa {
+  padding: 10px;
+  font-size: 25px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-github {
+  color: white;
+  background: black;
+  border-radius: 30%;
+}
+
+.fa-linkedin {
+  color:white;
+  background: blue;
+  border-radius: 30%;
+}
+
+.fa-instagram {
+  color: white;
+  background: orange;
+  border-radius: 30%;
+}
+
+.submit {
+  color: white;
+  background: blue;
+}
